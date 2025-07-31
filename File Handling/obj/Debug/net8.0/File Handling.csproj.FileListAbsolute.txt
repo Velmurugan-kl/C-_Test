@@ -1,0 +1,14 @@
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\bin\Debug\net8.0\File Handling.exe
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\bin\Debug\net8.0\File Handling.deps.json
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\bin\Debug\net8.0\File Handling.runtimeconfig.json
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\bin\Debug\net8.0\File Handling.dll
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\bin\Debug\net8.0\File Handling.pdb
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\File Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\File Handling.AssemblyInfoInputs.cache
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\File Handling.AssemblyInfo.cs
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\File Handling.csproj.CoreCompileInputs.cache
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\File Handling.dll
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\refint\File Handling.dll
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\File Handling.pdb
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\File Handling.genruntimeconfig.cache
+C:\Users\velmo\source\repos\MVC_Learn\File Handling\obj\Debug\net8.0\ref\File Handling.dll

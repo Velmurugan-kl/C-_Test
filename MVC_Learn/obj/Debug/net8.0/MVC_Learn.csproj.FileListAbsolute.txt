@@ -1,0 +1,14 @@
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\bin\Debug\net8.0\MVC_Learn.exe
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\bin\Debug\net8.0\MVC_Learn.deps.json
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\bin\Debug\net8.0\MVC_Learn.runtimeconfig.json
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\bin\Debug\net8.0\MVC_Learn.dll
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\bin\Debug\net8.0\MVC_Learn.pdb
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\MVC_Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\MVC_Learn.AssemblyInfoInputs.cache
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\MVC_Learn.AssemblyInfo.cs
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\MVC_Learn.csproj.CoreCompileInputs.cache
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\MVC_Learn.dll
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\refint\MVC_Learn.dll
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\MVC_Learn.pdb
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\MVC_Learn.genruntimeconfig.cache
+C:\Users\velmo\source\repos\MVC_Learn\MVC_Learn\obj\Debug\net8.0\ref\MVC_Learn.dll
