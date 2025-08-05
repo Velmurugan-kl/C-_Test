@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\velmo\\source\\repos\\MVC_Learn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A695C28-A3E6-4F7C-8B48-449095249410}|File Handling\\File Handling.csproj|c:\\users\\velmo\\source\\repos\\mvc_learn\\file handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A695C28-A3E6-4F7C-8B48-449095249410}|File Handling\\File Handling.csproj|solutionrelative:file handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A695C28-A3E6-4F7C-8B48-449095249410}|File Handling\\File Handling.csproj|c:\\users\\velmo\\source\\repos\\mvc_learn\\file handling\\filetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A695C28-A3E6-4F7C-8B48-449095249410}|File Handling\\File Handling.csproj|solutionrelative:file handling\\filetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A695C28-A3E6-4F7C-8B48-449095249410}|File Handling\\File Handling.csproj|c:\\users\\velmo\\source\\repos\\mvc_learn\\file handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A695C28-A3E6-4F7C-8B48-449095249410}|File Handling\\File Handling.csproj|solutionrelative:file handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FileTest.cs",
               "DocumentMoniker": "C:\\Users\\velmo\\source\\repos\\MVC_Learn\\File Handling\\FileTest.cs",
               "RelativeDocumentMoniker": "File Handling\\FileTest.cs",
-              "ToolTip": "C:\\Users\\velmo\\source\\repos\\MVC_Learn\\File Handling\\FileTest.cs*",
-              "RelativeToolTip": "File Handling\\FileTest.cs*",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAuwDMAAABrAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\velmo\\source\\repos\\MVC_Learn\\File Handling\\FileTest.cs",
+              "RelativeToolTip": "File Handling\\FileTest.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwDoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T16:20:58.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velmo\\source\\repos\\MVC_Learn\\File Handling\\Program.cs",
               "RelativeDocumentMoniker": "File Handling\\Program.cs",
-              "ToolTip": "C:\\Users\\velmo\\source\\repos\\MVC_Learn\\File Handling\\Program.cs*",
-              "RelativeToolTip": "File Handling\\Program.cs*",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAE8AAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\velmo\\source\\repos\\MVC_Learn\\File Handling\\Program.cs",
+              "RelativeToolTip": "File Handling\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAE8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T14:21:01.458Z",
               "EditorCaption": ""
